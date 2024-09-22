@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hello! My name is Aaron and I am a full-stack web developer. My stack primarily consists of HTML, CSS, JS, and Supabase for the back-end, database architecture, and/or API builds. If you are interested in using a different stack, let me know!
+
+I started out as a user-interface designer for many years, but ultimately after so many years working with developers, I learned how to code and program websites and web apps and have found that to be my true passion and love over design.
+
+I am a full-stack developer willing to work on anything from front-end development to back-end development or both. I am currently available to take on one additional project at this time. Please feel free to reach out and inquire.
+
 <!--
 **fullstackherodev/fullstackherodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
