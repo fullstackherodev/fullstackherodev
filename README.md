@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is more of a professional account for me. If you want to see all of my other many projects, please visit this account's page: [AVINNO GITHUB ACCOUNT](https://github.com/avinno)
+
 Hello! My name is Aaron and I am a full-stack web developer. My stack primarily consists of HTML, CSS, JS, and Supabase for the back-end, database architecture, and/or API builds. If you are interested in using a different stack, let me know!
 
 I started out as a user-interface designer for many years, but ultimately after so many years working with developers, I learned how to code and program websites and web apps and have found that to be my true passion and love over design.
